@@ -1220,7 +1220,7 @@ bool CWallet::CreateTransaction(const vector<pair<CScript, int64> >& vecSend,
                 BOOST_FOREACH(PAIRTYPE(const CWalletTx*, unsigned int) pcoin, setCoins)
                 {
                     int64 nCredit = pcoin.first->vout[pcoin.second].nValue;
-                    // Dogecoin: Set priority to current block
+                    // KiTTYCoin: Set priority to current block
                     dPriority += (double)nCredit * pcoin.first->GetDepthInMainChain();
                 }
 
