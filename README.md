@@ -4,7 +4,7 @@
 ![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
 ## What is KiTTYCoin? - Such coin
-KiTTYCoin is a Dogecoin clone. Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
+KiTTYCoin is a shameless Dogecoin clone. Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
 http://dogecoin.com/
 
 ## License - Much license
