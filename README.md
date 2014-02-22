@@ -8,7 +8,7 @@ KiTTYCoin is a Dogecoin clone. Dogecoin is like Bitcoin, but based on Litecoin, 
 http://dogecoin.com/
 
 ## License - Much license
-DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
+Like DogeCoin, KiTTYCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions - omg developers
