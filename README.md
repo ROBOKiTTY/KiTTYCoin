@@ -1,10 +1,10 @@
-# Dogecoin [DOGE, Ð] Integration/Staging Tree
-http://dogecoin.com/
+# KiTTYCoin [KiTTY, K] Integration/Staging Tree
+
 
 ![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
-## What is DogeCoin? - Such coin
-Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
+## What is KiTTYCoin? - Such coin
+KiTTYCoin is a Dogecoin clone. Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
 http://dogecoin.com/
 
 ## License - Much license
